@@ -1,3 +1,20 @@
+
+@font-face {
+  font-family: 'itc-medium';
+  src:  url('https://www.malverncollege.org.hk/fonts/ITC-Stone-Sans-Std-Medium.ttf');
+}
+
+body {
+    font-family: 'itc-medium';
+    font-size: 15px;
+    color: #666;
+    
+}
+
+h1, .lead{
+    font-family: 'itc-medium';
+}
+
 .navlinks {
     font-size: 1.2em;
     width: 178px;
