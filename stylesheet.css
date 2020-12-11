@@ -24,3 +24,17 @@ h1, .lead{
     display: inline-block
 }
 
+div.welcomebox {
+    background-color: #00391f;
+    color: #dbe4e3;
+    padding: 20px 20px 40px 40px;
+    
+}
+
+div.challengebox {
+    background-color: #00391fBB;
+    color: #dbe4e3;
+    padding: 20px 20px 40px 40px;
+    
+    
+}
